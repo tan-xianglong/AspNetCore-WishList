@@ -8,6 +8,8 @@
     <Folder Include="wwwroot\" />
     <Folder Include="Views\Home\" />
     <Folder Include="Controllers\" />
+    <Folder Include="Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,5 +21,7 @@
     <None Remove="Views\Home\" />
     <None Remove="HomeController\" />
     <None Remove="Controllers\" />
+    <None Remove="Data\" />
+    <None Remove="Models\" />
   </ItemGroup>
 </Project>
